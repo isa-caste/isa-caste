@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Isabella!
+- 👀 I’m interested in all biomedical informatics related topics, and improving my python skills!
+- 🌱 I’m currently learning how to implement coding with biomedical data.
+- ⚡ Fun fact: I love to skateboard & rollarskate 
