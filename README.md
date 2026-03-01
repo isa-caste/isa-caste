@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Isabella! <br>
-🔬 As a graduate student in bioinformatcs at Indiana University Indianapolis I'm interested in using data-driven approaches to better understand complex disease. <br>
+🔬 As a graduate student in bioinformatcs at Indiana University Indianapolis I'm interested in using data-driven approaches to better understand complex diseases. <br>
 
 🌱 I'm currently investigating the role of H3K9me2 histone methylation in schizophrenia by building a regulatory network to better understand how this repressive chromatin mark may contribute to disease mechanisms. <br>
 
